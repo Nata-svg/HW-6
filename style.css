@@ -1,0 +1,60 @@
+.header{
+ display: flex;
+ margin-top: 24px;
+}
+
+.owl {
+  margin-left: 99px;
+  margin-top: 24px;
+  width: 33px;
+  height: 42px;
+}
+
+.home {
+  margin-left: 800px;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #636060;
+}
+
+.abt-us {
+  margin-left: 50px;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #636060;
+}
+
+.services {
+  margin-left: 50px;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #636060;
+}
+
+.package {
+  margin-left: 50px;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #636060;
+}
+
+.dg {
+  margin-top: 32px;
+  width: 1510px;
+}
